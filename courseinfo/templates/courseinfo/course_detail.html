@@ -5,30 +5,35 @@
 {% endblock %}
 
 {% block content %}
+<article>
+  <div class="row">
+  <div class="offset-by-two eight columns">
     <h2>{{ course }}</h2>
-
-    <ul>
+    <ul class="inline">
+        {% if perms.courseinfo.change_course %}
         <li>
-            <a href="{{ course.get_update_url }}">
-                Edit Course
-            </a>
-        </li>
+          <a
+              href="{{ course.get_update_url }}"
+              class="button">
+            Edit Course</a></li>
+        {% endif %}
+        {% if perms.courseinfo.delete_course %}
         <li>
-            <a href="{{ course.get_delete_url }}">
-                Delete Course
-            </a>
-        </li>
+          <a
+              href="{{ course.get_delete_url }}"
+              class="button">
+            Delete Course</a></li>
+        {% endif %}
     </ul>
-
     <section>
         <table>
             <tr>
-                <th>Course Name:</th>
-                <td>{{ course.course_name }}</td>
-            </tr>
-            <tr>
                 <th>Course Number:</th>
                 <td>{{ course.course_number }}</td>
+            </tr>
+            <tr>
+                <th>Course Name:</th>
+                <td>{{ course.course_name }}</td>
             </tr>
         </table>
     </section>
@@ -45,4 +50,7 @@
             {% endfor %}
         </ul>
     </section>
+  </div></div> <!-- row -->
+
+</article>
 {% endblock %}

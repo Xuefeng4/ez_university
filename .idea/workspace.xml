@@ -2,26 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ea10825-ef14-4b64-9886-4455400c6c94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/courseinfo/migrations/0003_auto_20191027_2018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_copy_of_db/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseinfo/disabled_migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseinfo/migrations/0011_create_groups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseinfo/migrations/0012_create_group_permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ez_university/requirements/base.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ez_university/setting/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ez_university/setting/development.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ez_university/setting/production.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ez_university.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ez_university.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courseinfo/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courseinfo/migrations/0002_auto_20190921_2313.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/migrations/0002_auto_20190921_2313.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courseinfo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseinfo/migrations/0009_load_instructor_test_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/disabled_migrations/0009_load_instructor_test_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseinfo/migrations/0010_load_student_test_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/disabled_migrations/0010_load_student_test_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/courseinfo/templates/courseinfo/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseinfo/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/courseinfo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/courseinfo/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ez_university/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ez_university/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ez_university/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ez_university/setting/base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ez_university/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ez_university/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ez_university/views.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Qin_Xuefeng_ez_university$settings.coverage" NAME="settings Coverage Results" MODIFIED="1574042569589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ez_university" />
+    <SUITE FILE_PATH="coverage/Qin_Xuefeng_ez_university$manage.coverage" NAME="manage Coverage Results" MODIFIED="1574641238633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -42,8 +64,10 @@
     </expand>
     <select />
   </component>
-  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" module-name="ez_university" sdk-home="$USER_HOME$/anaconda3/envs/e4_trainor_django_course/bin/python">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+    <option name="mySdkHome" value="$USER_HOME$/anaconda3/envs/e4_trainor_django_course/bin/python" />
+    <option name="myModuleName" value="ez_university" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-383680732">
@@ -92,47 +116,50 @@
     <session id="575533223">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="5" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="33" />
-          <entry key="html" value="2921" />
-          <entry key="py" value="8906" />
-          <entry key="py@ez_university" value="968" />
+          <entry key="Django Console" value="14" />
+          <entry key="dummy" value="37" />
+          <entry key="html" value="2998" />
+          <entry key="py" value="9242" />
+          <entry key="py@ez_university" value="1127" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CommandLine" value="966" />
-          <entry key="HTML" value="2921" />
-          <entry key="PLAIN_TEXT" value="35" />
-          <entry key="Python" value="8906" />
+          <entry key="CommandLine" value="1090" />
+          <entry key="HTML" value="2998" />
+          <entry key="PLAIN_TEXT" value="81" />
+          <entry key="Python" value="9256" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="3" />
-          <entry key="gitignore" value="1" />
-          <entry key="html" value="105" />
+          <entry key="gitignore" value="2" />
+          <entry key="html" value="121" />
           <entry key="png" value="1" />
-          <entry key="py" value="57" />
+          <entry key="py" value="69" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="3" />
-          <entry key="HTML" value="105" />
+          <entry key="HTML" value="121" />
           <entry key="Image" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="57" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="69" />
         </counts>
       </usages-collector>
     </session>
@@ -143,62 +170,117 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="272">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ez_university/settings.py">
+        <entry file="file://$PROJECT_DIR$/ez_university/setting/base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="120" selection-start-line="120" selection-end-line="120" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ez_university/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="314">
+              <caret line="124" column="49" lean-forward="true" selection-start-line="124" selection-start-column="49" selection-end-line="124" selection-end-column="49" />
               <folding>
-                <element signature="e#637#669#0" expanded="true" />
+                <element signature="e#314#323#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/about.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/courseinfo/urls.py">
+        <entry file="file://$PROJECT_DIR$/ez_university/requirements/base.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" selection-start-line="42" selection-end-line="46" selection-end-column="23" />
+            <state relative-caret-position="45">
+              <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/base.html">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="58" column="10" lean-forward="true" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ez_university/setting/development.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0011_create_groups.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="37" column="50" lean-forward="true" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/section_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="66" selection-start-line="41" selection-start-column="66" selection-end-line="41" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courseinfo/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>nickname</find>
+      <find>sectionlist</find>
+      <find>semester</find>
+      <find>semesterlist</find>
+      <find>RegistrationList</find>
+      <find>section create</find>
+      <find>courselist</find>
+      <find>regi</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -207,30 +289,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/courseinfo/utils.py" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_list.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_form.html" />
-        <option value="$PROJECT_DIR$/courseinfo/form.py" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_form.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_form.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_form.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_form.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_list.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_list.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_list.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_form_update.html" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_form_update.html" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_form_update.html" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_form_update.html" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_form_update.html" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_form_update.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_detail.html" />
         <option value="$PROJECT_DIR$/courseinfo/urls.py" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_refuse_delete.html" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_confirm_delete.html" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_confirm_delete.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_detail.html" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_refuse_delete.html" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_confirm_delete.html" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_confirm_delete.html" />
@@ -239,10 +306,6 @@
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_refuse_delete.html" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_refuse_delete.html" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_refuse_delete.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_detail.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_detail.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_detail.html" />
-        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_detail.html" />
         <option value="$PROJECT_DIR$/courseinfo/migrations/0002_auto_20190921_2313.py" />
         <option value="$PROJECT_DIR$/courseinfo/migrations/0004_semester_data.py" />
         <option value="$PROJECT_DIR$/courseinfo/admin.py" />
@@ -253,11 +316,30 @@
         <option value="$PROJECT_DIR$/courseinfo/migrations/0009_load_instructor_test_data.py" />
         <option value="$PROJECT_DIR$/courseinfo/migrations/0010_load_student_test_data.py" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_list.html" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_list.html" />
-        <option value="$PROJECT_DIR$/courseinfo/views.py" />
-        <option value="$PROJECT_DIR$/ez_university/settings.py" />
-        <option value="$PROJECT_DIR$/ez_university/urls.py" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/utils.py" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/login.html" />
         <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/base.html" />
+        <option value="$PROJECT_DIR$/courseinfo/views.py" />
+        <option value="$PROJECT_DIR$/ez_university/urls.py" />
+        <option value="$PROJECT_DIR$/ez_university/settings.py" />
+        <option value="$PROJECT_DIR$/ez_university/setting/development.py" />
+        <option value="$PROJECT_DIR$/ez_university/setting/production.py" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/ez_university/setting/base.py" />
+        <option value="$PROJECT_DIR$/ez_university/requirements/base.txt" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0011_create_groups.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -295,19 +377,33 @@
               <item name="Qin_Xuefeng_ez_university" type="b2602c69:ProjectViewProjectNode" />
               <item name="Qin_Xuefeng_ez_university" type="462c0819:PsiDirectoryNode" />
               <item name="courseinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Qin_Xuefeng_ez_university" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Qin_Xuefeng_ez_university" type="462c0819:PsiDirectoryNode" />
-              <item name="courseinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="courseinfo" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Qin_Xuefeng_ez_university" type="b2602c69:ProjectViewProjectNode" />
               <item name="Qin_Xuefeng_ez_university" type="462c0819:PsiDirectoryNode" />
               <item name="ez_university" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Qin_Xuefeng_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Qin_Xuefeng_ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="requirements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Qin_Xuefeng_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Qin_Xuefeng_ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Qin_Xuefeng_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Qin_Xuefeng_ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="courseinfo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Qin_Xuefeng_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -321,19 +417,29 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Django Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="ez_university" sdk-home="$USER_HOME$/anaconda3/envs/e4_trainor_django_course/bin/python">
+        <option name="mySdkHome" value="$USER_HOME$/anaconda3/envs/e4_trainor_django_course/bin/python" />
+        <option name="myModuleName" value="ez_university" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ez_university" />
       <recent name="$PROJECT_DIR$/old_copy_of_db" />
       <recent name="$PROJECT_DIR$/courseinfo/templates/courseinfo" />
       <recent name="$PROJECT_DIR$/courseinfo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/courseinfo/disabled_migrations" />
+      <recent name="$PROJECT_DIR$/ez_university/requirement" />
+      <recent name="$PROJECT_DIR$/ez_university" />
+      <recent name="$PROJECT_DIR$/ez_university/setting" />
       <recent name="$PROJECT_DIR$/courseinfo/templates/courseinfo" />
-      <recent name="$PROJECT_DIR$/courseinfo/templates" />
-      <recent name="$PROJECT_DIR$/templates" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -348,7 +454,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ez_university" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/e4_trainor_django_course/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ez_university" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ez_university" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ez_university/setting/base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ez_university" type="Python.DjangoServer" factoryName="Django server">
       <module name="ez_university" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -372,6 +522,17 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Django server.ez_university" />
+      <item itemvalue="Python.settings" />
+      <item itemvalue="Python.manage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.settings" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -386,27 +547,36 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24878837" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28594506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32956383" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32876712" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32876712" />
-      <window_info anchor="bottom" id="manage.py@ez_university" order="10" visible="true" weight="0.29452056" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="manage.py@ez_university" order="10" visible="true" weight="0.26164383" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32954547" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32876712" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -421,105 +591,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/manage.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_form_update.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/section_confirm_delete.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_refuse_delete.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_confirm_delete.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/section_refuse_delete.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_confirm_delete.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_refuse_delete.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_confirm_delete.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_refuse_delete.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_form_update.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -534,31 +617,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/course_confirm_delete.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/course_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -569,24 +631,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/course_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/course_refuse_delete.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -614,13 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/section_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0005_period_schema_and_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -645,27 +686,17 @@
     <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0003_auto_20191027_2018.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0009_load_instructor_test_data.py">
+    <entry file="file://$PROJECT_DIR$/courseinfo/disabled_migrations/0009_load_instructor_test_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0010_load_student_test_data.py">
+    <entry file="file://$PROJECT_DIR$/courseinfo/disabled_migrations/0010_load_student_test_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7845">
           <caret line="524" column="8" selection-start-line="524" selection-start-column="8" selection-end-line="524" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7185">
-          <caret line="500" column="9" selection-start-line="500" selection-start-column="9" selection-end-line="500" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#72#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -676,67 +707,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/courseinfo/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="131" selection-start-line="131" selection-end-line="131" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-            <marker date="1572217323622" expanded="true" signature="338:626" ph="..." />
-            <marker date="1572217323622" expanded="true" signature="655:660" ph="..." />
-            <marker date="1572217323622" expanded="true" signature="1487:1492" ph="..." />
-            <marker date="1572217323622" expanded="true" signature="2243:2248" ph="..." />
-            <marker date="1572217323622" expanded="true" signature="2990:2995" ph="..." />
-            <marker date="1572217323622" expanded="true" signature="5344:5353" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/static/courseinfor/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1624" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/static/courseinfor/skeleton.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/static/courseinfor/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/static/courseinfor/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ez_university/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ez_university/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="120" selection-start-line="120" selection-end-line="120" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/static/courseinfor/normalize.css" />
+    <entry file="file://$PROJECT_DIR$/courseinfo/static/courseinfor/skeleton.css" />
+    <entry file="file://$PROJECT_DIR$/courseinfo/static/courseinfor/style.css" />
+    <entry file="file://$PROJECT_DIR$/courseinfo/static/courseinfor/logo.png" />
+    <entry file="file://$PROJECT_DIR$/ez_university/views.py" />
     <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/about.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -747,23 +729,193 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="97" selection-start-line="9" selection-start-column="97" selection-end-line="9" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/course_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="91" selection-start-line="9" selection-start-column="91" selection-end-line="9" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="92" selection-start-line="9" selection-start-column="92" selection-end-line="9" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/course_form.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/course_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/section_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="92" selection-start-line="9" selection-start-column="92" selection-end-line="9" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5340">
+          <caret line="380" column="56" selection-start-line="380" selection-start-column="56" selection-end-line="380" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ez_university/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="315">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
           <folding>
             <element signature="e#637#669#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="58" column="10" lean-forward="true" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+        <state relative-caret-position="870">
+          <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ez_university/setting/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ez_university/setting/production.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/section_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="66" selection-start-line="41" selection-start-column="66" selection-end-line="41" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ez_university/setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ez_university/setting/development.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ez_university/setting/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="124" column="49" lean-forward="true" selection-start-line="124" selection-start-column="49" selection-end-line="124" selection-end-column="49" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#314#323#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ez_university/requirements/base.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0011_create_groups.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="37" column="50" lean-forward="true" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
